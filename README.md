@@ -1,8 +1,11 @@
 Project Topic : Classification of human cells into benign or malignant.
+
+
 Reference : DLithe  
+
 Project done under the guidance of : DLite
 
-Done by: M.Deepika  Usn:4nm18cs084
+Done by: M.Deepika                 Usn:4nm18cs084
 Batch 2
 
 
